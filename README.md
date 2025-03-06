@@ -47,47 +47,44 @@ I'm a dedicated Blockchain Developer and a Secuirty Researcher with a passion fo
 
 ---
 
-Here's your updated **Smart Contract Security & Auditing** section with tech stack logos:  
-
 ## 🔒 Smart Contract Security & Auditing  
 
 I specialize in **identifying vulnerabilities** in Solidity smart contracts using the latest security tools and techniques.  
 
-### **Security Tools**  
-
-#### **Static Analysis**  
+### **🛡️ Static Analysis**  
 ![Slither](https://img.shields.io/badge/Slither-000000?style=for-the-badge&logo=github&logoColor=white)  
-🛡️ [Slither](https://github.com/crytic/slither) - Fast static analysis framework for Solidity.  
-
 ![MythX](https://img.shields.io/badge/MythX-ffcc00?style=for-the-badge&logo=ethereum&logoColor=black)  
-🛡️ [MythX](https://mythx.io/) - Cloud-based smart contract security analysis.  
 
-#### **Fuzz Testing**  
-![Echidna](https://img.shields.io/badge/Echidna-800000?style=for-the-badge&logo=ethereum&logoColor=white)  
-🔍 [Echidna](https://github.com/crytic/echidna) - Property-based fuzzing for Ethereum smart contracts.  
+- **[Slither](https://github.com/crytic/slither)** - Fast static analysis framework for Solidity.  
+- **[MythX](https://mythx.io/)** - Cloud-based smart contract security analysis.  
 
-![Harvey](https://img.shields.io/badge/Harvey-003366?style=for-the-badge&logo=ethereum&logoColor=white)  
-🔍 [Harvey](https://github.com/consensys/harvey) - Differential fuzzing for Solidity.  
+### **🔍 Fuzz Testing**  
+![Echidna](https://img.shields.io/badge/Echidna-DC143C?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Harvey](https://img.shields.io/badge/Harvey-008080?style=for-the-badge&logo=ethereum&logoColor=white)  
 
-#### **Symbolic Execution**  
-![Mythril](https://img.shields.io/badge/Mythril-FF4500?style=for-the-badge&logo=ethereum&logoColor=white)  
-🔎 [Mythril](https://github.com/ConsenSys/mythril) - Symbolic execution tool for smart contract security.  
+- **[Echidna](https://github.com/crytic/echidna)** - Property-based fuzzing for Ethereum smart contracts.  
+- **[Harvey](https://github.com/consensys/harvey)** - Differential fuzzing for Solidity.  
 
-![Manticore](https://img.shields.io/badge/Manticore-008080?style=for-the-badge&logo=ethereum&logoColor=white)  
-🔎 [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool that supports smart contracts.  
+### **🔎 Symbolic Execution**  
+![Mythril](https://img.shields.io/badge/Mythril-663399?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Manticore](https://img.shields.io/badge/Manticore-8B0000?style=for-the-badge&logo=ethereum&logoColor=white)  
 
-#### **Formal Verification**  
-![Certora](https://img.shields.io/badge/Certora-4E5EE4?style=for-the-badge&logo=ethereum&logoColor=white)  
-📜 [Certora](https://www.certora.com/) - Advanced formal verification for Solidity.  
+- **[Mythril](https://github.com/ConsenSys/mythril)** - Symbolic execution tool for smart contract security.  
+- **[Manticore](https://github.com/trailofbits/manticore)** - Symbolic execution tool that supports smart contracts.  
 
-![KEVM](https://img.shields.io/badge/KEVM-006400?style=for-the-badge&logo=ethereum&logoColor=white)  
-📜 [KEVM](https://github.com/kframework/evm-semantics) - K-framework Ethereum verification.  
+### **📜 Formal Verification**  
+![Certora](https://img.shields.io/badge/Certora-4169E1?style=for-the-badge&logo=ethereum&logoColor=white)  
+![KEVM](https://img.shields.io/badge/KEVM-FF4500?style=for-the-badge&logo=ethereum&logoColor=white)  
 
-#### **Runtime Monitoring**  
-![Forta](https://img.shields.io/badge/Forta-FF0000?style=for-the-badge&logo=ethereum&logoColor=white)  
-⚡ [Forta](https://forta.org/) - Real-time security monitoring for smart contracts.  
+- **[Certora](https://www.certora.com/)** - Advanced formal verification for Solidity.  
+- **[KEVM](https://github.com/kframework/evm-semantics)** - K-framework Ethereum verification.  
 
----  
+### **⚡ Runtime Monitoring**  
+![Forta](https://img.shields.io/badge/Forta-00FFFF?style=for-the-badge&logo=ethereum&logoColor=black)  
+
+- **[Forta](https://forta.org/)** - Real-time security monitoring for smart contracts.  
+
+---
 
 
 ## 📊 GitHub Stats
