@@ -47,31 +47,48 @@ I'm a dedicated Blockchain Developer and a Secuirty Researcher with a passion fo
 
 ---
 
-## 🔒 Smart Contract Security & Auditing
+Here's your updated **Smart Contract Security & Auditing** section with tech stack logos:  
 
-I specialize in **identifying vulnerabilities** in Solidity smart contracts using the latest security tools and techniques.
+## 🔒 Smart Contract Security & Auditing  
 
-### **Security Tools**
-- **Static Analysis**  
-  - 🛡️ [Slither](https://github.com/crytic/slither) - Fast static analysis framework for Solidity.  
-  - 🛡️ [MythX](https://mythx.io/) - Cloud-based smart contract security analysis.  
+I specialize in **identifying vulnerabilities** in Solidity smart contracts using the latest security tools and techniques.  
 
-- **Fuzz Testing**  
-  - 🔍 [Echidna](https://github.com/crytic/echidna) - Property-based fuzzing for Ethereum smart contracts.  
-  - 🔍 [Harvey](https://github.com/consensys/harvey) - Differential fuzzing for Solidity.  
+### **Security Tools**  
 
-- **Symbolic Execution**  
-  - 🔎 [Mythril](https://github.com/ConsenSys/mythril) - Symbolic execution tool for smart contract security.  
-  - 🔎 [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool that supports smart contracts.  
+#### **Static Analysis**  
+![Slither](https://img.shields.io/badge/Slither-000000?style=for-the-badge&logo=github&logoColor=white)  
+🛡️ [Slither](https://github.com/crytic/slither) - Fast static analysis framework for Solidity.  
 
-- **Formal Verification**  
-  - 📜 [Certora](https://www.certora.com/) - Advanced formal verification for Solidity.  
-  - 📜 [KEVM](https://github.com/kframework/evm-semantics) - K-framework Ethereum verification.  
+![MythX](https://img.shields.io/badge/MythX-ffcc00?style=for-the-badge&logo=ethereum&logoColor=black)  
+🛡️ [MythX](https://mythx.io/) - Cloud-based smart contract security analysis.  
 
-- **Runtime Monitoring**  
-  - ⚡ [Forta](https://forta.org/) - Real-time security monitoring for smart contracts.  
+#### **Fuzz Testing**  
+![Echidna](https://img.shields.io/badge/Echidna-800000?style=for-the-badge&logo=ethereum&logoColor=white)  
+🔍 [Echidna](https://github.com/crytic/echidna) - Property-based fuzzing for Ethereum smart contracts.  
 
----
+![Harvey](https://img.shields.io/badge/Harvey-003366?style=for-the-badge&logo=ethereum&logoColor=white)  
+🔍 [Harvey](https://github.com/consensys/harvey) - Differential fuzzing for Solidity.  
+
+#### **Symbolic Execution**  
+![Mythril](https://img.shields.io/badge/Mythril-FF4500?style=for-the-badge&logo=ethereum&logoColor=white)  
+🔎 [Mythril](https://github.com/ConsenSys/mythril) - Symbolic execution tool for smart contract security.  
+
+![Manticore](https://img.shields.io/badge/Manticore-008080?style=for-the-badge&logo=ethereum&logoColor=white)  
+🔎 [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool that supports smart contracts.  
+
+#### **Formal Verification**  
+![Certora](https://img.shields.io/badge/Certora-4E5EE4?style=for-the-badge&logo=ethereum&logoColor=white)  
+📜 [Certora](https://www.certora.com/) - Advanced formal verification for Solidity.  
+
+![KEVM](https://img.shields.io/badge/KEVM-006400?style=for-the-badge&logo=ethereum&logoColor=white)  
+📜 [KEVM](https://github.com/kframework/evm-semantics) - K-framework Ethereum verification.  
+
+#### **Runtime Monitoring**  
+![Forta](https://img.shields.io/badge/Forta-FF0000?style=for-the-badge&logo=ethereum&logoColor=white)  
+⚡ [Forta](https://forta.org/) - Real-time security monitoring for smart contracts.  
+
+---  
+
 
 ## 📊 GitHub Stats
 [![My Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/shrxyeh?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
@@ -80,7 +97,7 @@ I specialize in **identifying vulnerabilities** in Solidity smart contracts usin
 ---
 
 ## 🏆 Achievements
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=shrxyeh&theme=radical)
+![GitHub trophies](https://github-trophies.vercel.app/?username=shrxyeh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
