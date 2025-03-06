@@ -51,38 +51,36 @@ I'm a dedicated Blockchain Developer and a Secuirty Researcher with a passion fo
 
 I specialize in **identifying vulnerabilities** in Solidity smart contracts using the latest security tools and techniques.  
 
-### **🛡️ Static Analysis**  
-![Slither](https://img.shields.io/badge/Slither-000000?style=for-the-badge&logo=github&logoColor=white)  
-![MythX](https://img.shields.io/badge/MythX-ffcc00?style=for-the-badge&logo=ethereum&logoColor=black)  
+I see that the tools are still displayed vertically instead of being aligned horizontally like the **Tech Stack** section.  
 
-- **[Slither](https://github.com/crytic/slither)** - Fast static analysis framework for Solidity.  
-- **[MythX](https://mythx.io/)** - Cloud-based smart contract security analysis.  
+To achieve the same horizontal format, you need to use **Markdown tables** or **flexbox styling in CSS** if you're using a website. Here's how you can format it in Markdown:
 
-### **🔍 Fuzz Testing**  
-![Echidna](https://img.shields.io/badge/Echidna-DC143C?style=for-the-badge&logo=ethereum&logoColor=white)  
-![Harvey](https://img.shields.io/badge/Harvey-008080?style=for-the-badge&logo=ethereum&logoColor=white)  
+### **Static Analysis**  
+| ![Slither](https://img.shields.io/badge/Slither-000000?style=for-the-badge&logo=github&logoColor=white) | ![MythX](https://img.shields.io/badge/MythX-ffcc00?style=for-the-badge&logo=ethereum&logoColor=black) |
+|:--:|:--:|
+| **[Slither](https://github.com/crytic/slither)** | **[MythX](https://mythx.io/)** |
 
-- **[Echidna](https://github.com/crytic/echidna)** - Property-based fuzzing for Ethereum smart contracts.  
-- **[Harvey](https://github.com/consensys/harvey)** - Differential fuzzing for Solidity.  
+### **Fuzz Testing**  
+| ![Echidna](https://img.shields.io/badge/Echidna-DC143C?style=for-the-badge&logo=ethereum&logoColor=white) | ![Harvey](https://img.shields.io/badge/Harvey-008080?style=for-the-badge&logo=ethereum&logoColor=white) |
+|:--:|:--:|
+| **[Echidna](https://github.com/crytic/echidna)** | **[Harvey](https://github.com/consensys/harvey)** |
 
-### **🔎 Symbolic Execution**  
-![Mythril](https://img.shields.io/badge/Mythril-663399?style=for-the-badge&logo=ethereum&logoColor=white)  
-![Manticore](https://img.shields.io/badge/Manticore-8B0000?style=for-the-badge&logo=ethereum&logoColor=white)  
+### **Symbolic Execution**  
+| ![Mythril](https://img.shields.io/badge/Mythril-663399?style=for-the-badge&logo=ethereum&logoColor=white) | ![Manticore](https://img.shields.io/badge/Manticore-8B0000?style=for-the-badge&logo=ethereum&logoColor=white) |
+|:--:|:--:|
+| **[Mythril](https://github.com/ConsenSys/mythril)** | **[Manticore](https://github.com/trailofbits/manticore)** |
 
-- **[Mythril](https://github.com/ConsenSys/mythril)** - Symbolic execution tool for smart contract security.  
-- **[Manticore](https://github.com/trailofbits/manticore)** - Symbolic execution tool that supports smart contracts.  
+### **Formal Verification**  
+| ![Certora](https://img.shields.io/badge/Certora-4169E1?style=for-the-badge&logo=ethereum&logoColor=white) | ![KEVM](https://img.shields.io/badge/KEVM-FF4500?style=for-the-badge&logo=ethereum&logoColor=white) |
+|:--:|:--:|
+| **[Certora](https://www.certora.com/)** | **[KEVM](https://github.com/kframework/evm-semantics)** |
 
-### **📜 Formal Verification**  
-![Certora](https://img.shields.io/badge/Certora-4169E1?style=for-the-badge&logo=ethereum&logoColor=white)  
-![KEVM](https://img.shields.io/badge/KEVM-FF4500?style=for-the-badge&logo=ethereum&logoColor=white)  
+### **Runtime Monitoring**  
+| ![Forta](https://img.shields.io/badge/Forta-00FFFF?style=for-the-badge&logo=ethereum&logoColor=black) |
+|:--:|
+| **[Forta](https://forta.org/)** |
 
-- **[Certora](https://www.certora.com/)** - Advanced formal verification for Solidity.  
-- **[KEVM](https://github.com/kframework/evm-semantics)** - K-framework Ethereum verification.  
-
-### **⚡ Runtime Monitoring**  
-![Forta](https://img.shields.io/badge/Forta-00FFFF?style=for-the-badge&logo=ethereum&logoColor=black)  
-
-- **[Forta](https://forta.org/)** - Real-time security monitoring for smart contracts.  
+#### 🛠 This should now display the tools in a **horizontal row** instead of vertical alignment. Let me know if you need further tweaks! 🚀
 
 ---
 
