@@ -7,7 +7,7 @@ I'm a dedicated Blockchain Developer and a Secuirty Researcher with a passion fo
 - 🌱 I’m exploring advanced concepts in **zero-knowledge proofs**, **MEV (Maximal Extractable Value)**, and **blockchain interoperability**.
 - 👯 I’m looking to collaborate on innovative **DeFi, L2 Scaling, and AI-Blockchain hybrid** projects.
 - 💬 Ask me about **blockchain development, smart contract security, and decentralized finance (DeFi)**.
-- 📫 How to reach me: [shreyashnaik29@gmail.com].
+- 📫 How to reach me: shreyashnaik29@gmail.com.
 
 ---
 
@@ -24,6 +24,7 @@ I'm a dedicated Blockchain Developer and a Secuirty Researcher with a passion fo
 
 ### **Blockchain & Smart Contract Development**
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-4933ff?style=for-the-badge&logo=solana&logoColor=white)
 ![Polygon](https://img.shields.io/badge/Polygon-7B3FE4?style=for-the-badge&logo=polygon&logoColor=white)
 ![Arbitrum](https://img.shields.io/badge/Arbitrum-28A0F0?style=for-the-badge&logo=arbitrum&logoColor=white)
 ![Optimism](https://img.shields.io/badge/Optimism-FF0420?style=for-the-badge&logo=optimism&logoColor=white)
@@ -50,9 +51,6 @@ I'm a dedicated Blockchain Developer and a Secuirty Researcher with a passion fo
 
 I specialize in **identifying vulnerabilities** in Solidity smart contracts using the latest security tools and techniques.  
 
-I see that the tools are still displayed vertically instead of being aligned horizontally like the **Tech Stack** section.  
-
-To achieve the same horizontal format, you need to use **Markdown tables** or **flexbox styling in CSS** if you're using a website. Here's how you can format it in Markdown:
 
 ### **Static Analysis**  
 | ![Slither](https://img.shields.io/badge/Slither-000000?style=for-the-badge&logo=github&logoColor=white) | ![MythX](https://img.shields.io/badge/MythX-ffcc00?style=for-the-badge&logo=ethereum&logoColor=black) |
@@ -79,7 +77,6 @@ To achieve the same horizontal format, you need to use **Markdown tables** or **
 |:--:|
 | **[Forta](https://forta.org/)** |
 
-#### 🛠 This should now display the tools in a **horizontal row** instead of vertical alignment. Let me know if you need further tweaks! 🚀
 
 ---
 
