@@ -36,8 +36,8 @@ I'm a dedicated Blockchain Developer with a passion for building decentralized a
 ![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats]([![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/shrxyeh?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card))
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrxyeh&layout=compact&theme=radical)
 
 ## 🏆 Achievements
 ![GitHub trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
